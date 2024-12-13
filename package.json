@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "got": "^10.4.0",
+    "got": "^12.5.3",
     "jsdom": "^16.2.1"
   }
 }
